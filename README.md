@@ -1,6 +1,6 @@
 ## ТЗ 2  Python Version
 
-[![Badge](https://github.com/TimWHitee/techtask2_python/blob/main/.github/workflows/Python_tests.yml/badge.svg)](https://github.com/TimWHitee/techtask2_python/blob/main/.github/workflows/Python_tests.yml)
+[![Badge](https://github.com/TimWHitee/techtask2_python/actions/workflows/Python_tests.yml/badge.svg)](https://github.com/TimWHitee/techtask2_python/actions/workflows/Python_tests.yml)
 
 
 ## Описание проекта
